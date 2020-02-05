@@ -1,0 +1,8 @@
+SLIDER:
+foundation.min
+carouFredSel
+jquery
+
+UP BUTTON:
+easing
+scrollTo
