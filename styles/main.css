@@ -19,7 +19,7 @@
 .top-bar-section li:not(.has-form) a:not(.button):hover,
 .top-bar-section ul li,
 .top-bar.expanded .title-area,
-.no-js .top-bar-section ul li:hover > a{
+.top-bar-section ul li:hover > a{
 	background: transparent;
 	height: auto;
 	line-height:normal;
